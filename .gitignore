@@ -1,0 +1,7 @@
+.appTests
+.AppTest
+.runAppTests.sh
+.Ds_Store
+.Icon?
+.snapshots
+.signore
