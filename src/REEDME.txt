@@ -1,0 +1,16 @@
+It can generate some shapes/patterns like rectangle, diamond, triangle..
+
+we can also provide pattern type to it.. like filled, hollow etc
+
+it also takes dimensions...
+
+for mentioning shapes, we have to use '-s' option with any valid shape.
+Valid shapes: 1. 'triangle', 2. 'rectangle', 3. 'diamond'
+default shape is rectangle
+
+for mentioning patterns we have to use '-p' option with any valid pattern.
+Valid patterns: 1. 'filled', 2. 'hollow', 3. 'alternating', 4. 'Interlaced', 5. 'angled'(only for diamond)
+default pattern is filled
+
+for mentioning dimensions, we have to use '-d' option with "<row number>,<coloumn number>"
+default dimensions are "5,5"
