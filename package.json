@@ -1,0 +1,22 @@
+{
+  "name": "shapes",
+  "version": "1.0.0",
+  "description": "a pattern print code",
+  "main": "printPattern.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildshower/shapes.git"
+  },
+  "author": "Sudipta Kundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mildshower/shapes/issues"
+  },
+  "homepage": "https://github.com/mildshower/shapes#readme"
+}
